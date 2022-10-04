@@ -1,0 +1,389 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.9.24)  25 SEP 2022 16:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**記錄.tex
+(./記錄.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\lst@mode=\count185
+\lst@gtempboxa=\box47
+\lst@token=\toks16
+\lst@length=\count186
+\lst@currlwidth=\dimen139
+\lst@column=\count187
+\lst@pos=\count188
+\lst@lostspace=\dimen140
+\lst@width=\dimen141
+\lst@newlines=\count189
+\lst@lineno=\count190
+\lst@maxwidth=\dimen142
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count191
+\lst@skipnumbers=\count192
+\lst@framebox=\box48
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box49
+) (./記錄.aux)
+\openout1 = `記錄.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+\c@lstlisting=\count194
+
+
+./記錄.tex:8: Package inputenc Error: Unicode character 記 (U+8A18)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \maketitle
+              
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./記錄.tex:8: Package inputenc Error: Unicode character 錄 (U+9304)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \maketitle
+              
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+./記錄.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 ... the setting: delete the default g:vimtex_
+                                                  view_method="zethura" and ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+./記錄.tex:17: Missing $ inserted.
+<inserted text> 
+                $
+l.17 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (494.41069pt too wide) in paragraph at lines 16--17
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 zethura\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 andchangetog \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 vimtex[]iew[]eneral[]iewer \OT1/cmr/m/n/10 = "\OML/cmm/m/it/10 zethura\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ininit:luainstead:Itworks:IcannowuseVimtexViewtoseethepdffilecompiled:Butforwardsearchandinversesearchdon[]twork:$ 
+ []
+
+./記錄.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...bout vimscript language, I locate a self._
+                                                  start method and insepct t...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./記錄.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \begin{lstlisting}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./記錄.tex:19: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.19 \begin{lstlisting}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./記錄.tex:19: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.19 \begin{lstlisting}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./記錄.tex:19: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.19 \begin{lstlisting}
+                       
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (102.18164pt too wide) in paragraph at lines 18--19
+\OT1/cmr/m/n/10 vim-script lan-guage, I lo-cate a self.$[]\OML/cmm/m/it/10 tartmethodandinsepctthefunctioncalledinsidethismethod:After\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (2.6582pt too wide) in paragraph at lines 18--19
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 hours; Ifoundthelinecallingtheshellcommandofzethuraandpdffile; whichis \OT1/cmr/m/n/10 :$ 
+ []
+
+./記錄.tex:19: Undefined control sequence.
+\lst@GetLineInterval ...r \lst@GLI \lst@linerange 
+                                                  \@nil 
+l.19 \begin{lstlisting}
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ synctex, start) abort " {{{1 let l:cmd = 'zathura' 
+./記錄.tex:22: Paragraph ended before \lst@GLI was complete.
+<to be read again> 
+                   \par 
+l.22 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./記錄.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+l.24     let l:cmd .= ' ' . g:vimtex_
+                                     view_zathura_options
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./記錄.tex:31: Missing $ inserted.
+<inserted text> 
+                $
+l.31 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./記錄.tex:32: Misplaced alignment tab character &.
+l.32   if a:synctex &
+                     & (!a:start || g:vimtex_view_forward_search_on_start)
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./記錄.tex:32: Misplaced alignment tab character &.
+l.32   if a:synctex &&
+                       (!a:start || g:vimtex_view_forward_search_on_start)
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./記錄.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32   if a:synctex && (!a:start || g:vimtex_
+                                             view_forward_search_on_start)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./記錄.tex:36: You can't use `macro parameter character #' in math mode.
+l.36           \ vimtex#
+                        util#shellescape(expand('%:p')))
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./記錄.tex:36: You can't use `macro parameter character #' in math mode.
+l.36           \ vimtex#util#
+                             shellescape(expand('%:p')))
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./記錄.tex:38: Missing $ inserted.
+<inserted text> 
+                $
+l.38 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.23343pt too wide) in paragraph at lines 32--38
+\OML/cmm/m/it/10 printf\OT1/cmr/m/n/10 ( [] \OMS/cmsy/m/n/10 ^^@ ^^@\OML/cmm/m/it/10 synctex \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 forward line\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 :[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; col\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 :[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;  vimtexutilshellescape\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 expand\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 endif$ 
+ []
+
+./記錄.tex:40: You can't use `macro parameter character #' in horizontal mode.
+l.40         \ . vimtex#
+                        util#shellescape(vimtex#paths#relative(a:outfile, ge...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./記錄.tex:40: You can't use `macro parameter character #' in horizontal mode.
+l.40         \ . vimtex#util#
+                             shellescape(vimtex#paths#relative(a:outfile, ge...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./記錄.tex:40: You can't use `macro parameter character #' in horizontal mode.
+l.40         \ . vimtex#util#shellescape(vimtex#
+                                                paths#relative(a:outfile, ge...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./記錄.tex:40: You can't use `macro parameter character #' in horizontal mode.
+l.40 ... \ . vimtex#util#shellescape(vimtex#paths#
+                                                  relative(a:outfile, getcwd...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./記錄.tex:41: Misplaced alignment tab character &.
+l.41         \ . '&
+                   '
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+./記錄.tex:43: Undefined control sequence.
+\lstlisting ->\def \lstenv@name 
+                                {lstlisting}\begingroup \lst@setcatcodes \ca...
+l.43 \end{lstlisting}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./記錄.tex:43: Package Listings Error: Extra \endlstlisting.
+
+See the Listings package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \end{lstlisting}
+                     
+I'm ignoring this, since I wasn't doing a \def {lstlisting}\begingroup \makeatletter \catcode `\==12\relax \catcode \active =\active \lstlisting@.
+
+
+./記錄.tex:43: LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \end{lstlisting}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./記錄.tex:43: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.43 \end{lstlisting}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./記錄.aux) ) 
+Here is how much of TeX's memory you used:
+ 2152 strings out of 479304
+ 30365 string characters out of 5869779
+ 308903 words of memory out of 5000000
+ 19394 multiletter control sequences out of 15000+600000
+ 407405 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 52i,6n,60p,456b,998s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on 記錄.pdf (1 page, 93858 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

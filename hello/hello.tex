@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage{url}
+\title{Nvim setup guide}
+\author{Raymond Yip}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+Hi world! This is the first document. Let me talk about how do we install a workable nvim in every computer. 
+
+\section{Introduction}
+
+So basically I have created a \path{~/.config/nvim/} folder that contains most of my personal configuration.\newline\\
+%
+My nvim mainly contains three functions:\newline\\
+%
+1. LSP support for autocomplete(meaning suggestions box), hover, linter (warning besides the code to tell you compilation error), code actions, definition and so on. \newline
+2. Notes-taking support with vim + latex + Ultisnip.\newline
+3. A find and go workflow: mainly achieved by using fzf. Navigate a folder by searching filename. Navigate a file by searching keyword. Navigate a project by searching keyword projectwise.
+
+\section{Major Steps}
+
+Step 1: Install the relevant stuff in the computer first. e.g. fzf, python, node.js, ruby, universal ctag?\newline\\
+Step 2: Install paq, a vim plugin manager written in lua. \newline\\ 
+Step 3: git pull the \path{~/.config/nvim/} folder then start to experiment every featuers. \newline\\
+I guess this is basically the setup guide for my nvim. I will need experiment to see if they really work.
+
+\subsection{Installation and configuration of LSP}
+
+Step 1: Install the LSP you want with the plugin Mason.\newline\\
+Step 2: You will need to go \path{nvim-lspconfig/server_configurations.md} to check what your LSP is named. \newline\\
+Step 3: add the server name to file \path{init.lua} to start the server.
+
+\subsection{Configuration of notes-taking part}
+
+Step 1: install zethura on your linux computer or wsl. \newline\\ 
+Step 2: Make sure a x server (eg vcsxrv), x11-apps and dbus-x11 are installed in your ubuntu/debian linux. Remember to put the following lines in the .bashrc file:
+\begin{verbatim}
+# in WSL 2
+export DISPLAY=$(awk '/nameserver / {print $2; exit}' /etc/resolv.conf 2>/dev/null):0 
+export LIBGL_ALWAYS_INDIRECT=1
+\end{verbatim}
+\newline\\
+Step 3: the forward search and inverse search should be working by now. 
+
+\end{document}
